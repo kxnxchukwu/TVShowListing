@@ -1,4 +1,4 @@
-# Task Recorder App
+# TV Show Listing App
 
 This web application uses the TVMaze API to get data on a particular TV Show. I used this project to accumulate experience with TypeScript, React Hooks
 
