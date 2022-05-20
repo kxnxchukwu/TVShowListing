@@ -2,9 +2,6 @@
 
 This web application uses the TVMaze API to get data on a particular TV Show. I used this project to accumulate experience with TypeScript, React Hooks
 
-### Links
-- **Main App**: [here](https://task-recorder-online.herokuapp.com)
-
 ### Technologies
 - **React**
 - **TypeScript**
